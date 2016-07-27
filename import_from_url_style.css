@@ -1,0 +1,20 @@
+h3.import-from-url {
+  margin: 0;
+  padding: 10px 0;
+}
+
+.image-src {
+  display: none;
+}
+
+.select-src, .image-src input {
+  margin: 5px 0 10px;
+}
+
+.image-src div {
+  padding: 10px 0;
+}
+
+.image-src {
+  padding: 10px 0;
+}
